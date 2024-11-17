@@ -7,7 +7,7 @@
 
 # 致谢
 
-特别感谢 [Ovilia](https://github.com/Ovilia) 在本博客的搭建过程中提供的支持与参考。
+特别感谢 [Ovilia](https://github.com/Ovilia) 的开源项目。
 
 # License
 
