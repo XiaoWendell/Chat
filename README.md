@@ -1,7 +1,8 @@
 # Chat
-# Hi there 👋  <img align="right" src="https://profile-counter.glitch.me/XiaoWendell/count.svg" alt="XiaoWendell" />
 
-![dino](https://raw.githubusercontent.com/XiaoWendell/MyProject/master/images/GIF/dino.gif "dino")
+# Hi there 👋 <img align="right" src="https://profile-counter.glitch.me/XiaoWendell/count.svg" alt="XiaoWendell" />
+
+![dino](https://raw.githubusercontent.com/XiaoWendell/ProjectAssets/master/images/GIF/dino.gif 'dino')
 
 我是 Wendell，一名业余编程爱好者，这是我的[个人平台](https://XiaoWendell.github.io/)。
 
