@@ -1,0 +1,19 @@
+---
+permalink: /robots.txt
+# The robots rules
+---
+
+User-agent: *
+
+# Disallow certain paths
+Disallow: /assets/           # 阻止访问静态文件
+
+# Disallow Googlebot-Image from crawling images
+User-agent: Googlebot-Image
+Disallow: /img/    # 不允许爬虫访问图片目录
+
+# Allow all crawlers to index the main content
+Allow: /                      # 允许爬虫访问主页和其他页面
+
+# Sitemap location
+Sitemap: {{ '/sitemap.xml' | absolute_url }}
